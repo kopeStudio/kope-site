@@ -1,0 +1,64 @@
+body
+{
+	font-family: 'lato', sans-serif;
+	/*background-color: #fff;
+	color: #19ddff; #0fa0ce;*/
+
+	background-color: #19ddff;
+	color: #17588e;
+	line-height: 1.4;
+}
+.content
+{
+	margin-top:15vh;
+}
+.body
+{
+}
+.footer
+{
+	font-size: 0.9em;
+	color:#fff;
+}
+.intro
+{
+	font-size: 1.6em;
+}
+a{
+	text-decoration: none;
+	color:#fff;
+	font-style: italic;
+}
+h1
+{
+	font-weight: 900;
+	font-size: 6em;
+	line-height: 0.8;
+}
+p
+{
+	margin-bottom: 0.8em;
+}
+li
+{
+	list-style: none;
+	margin-bottom: 0.2em;
+}
+p.name
+{
+	margin-bottom:0;
+	font-weight: 400;
+	font-size: 1.2em;
+}
+p.title
+{
+	margin-bottom:1em;
+	text-transform: uppercase;
+}
+a.email
+{
+}
+a.social
+{
+	display: block;
+}
